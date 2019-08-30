@@ -4,7 +4,7 @@
 
 ## JSの話
 
-- JSエンジンとランタイム
+- [JSエンジンとランタイム](docs/1.1.js-runtime.md)
 - ブラウザとNode.js
 - イベント駆動とシングルスレッド
 - （webworker）
